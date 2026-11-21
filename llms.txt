@@ -1,0 +1,68 @@
+# Dashboard Light Decoder
+
+> Plain-English explanations of car dashboard warning lights and OBD-II fault codes: what they mean, whether it is safe to drive, how to fix them, typical repair costs, and parts that fit your car.
+
+## Main pages
+- [All warning lights](https://blamej65r2ec-dot.github.io/warning-lights)
+- [Fault codes](https://blamej65r2ec-dot.github.io/fault-codes)
+- [Repair cost estimator](https://blamej65r2ec-dot.github.io/estimate)
+- [Scan a warning light](https://blamej65r2ec-dot.github.io/scan)
+- [Shop](https://blamej65r2ec-dot.github.io/shop)
+- [Warning light colors](https://blamej65r2ec-dot.github.io/dashboard-warning-light-colors)
+- [How to read OBD-II codes](https://blamej65r2ec-dot.github.io/how-to-read-obd2-codes)
+
+## Warning lights
+- [Engine oil pressure](https://blamej65r2ec-dot.github.io/warning-light-engine-oil-pressure): Low oil level, an oil leak, a worn oil pump, a clogged filter, a faulty pressure sensor, or the wrong oil grade.
+- [Engine temperature](https://blamej65r2ec-dot.github.io/warning-light-engine-temperature): Low coolant, a leak, a stuck thermostat, a failed water pump or fan, a blocked radiator, or a broken belt.
+- [Battery or charging](https://blamej65r2ec-dot.github.io/warning-light-battery-or-charging): A failing alternator, a loose or broken belt, corroded battery terminals, or a weak battery.
+- [Brake system](https://blamej65r2ec-dot.github.io/warning-light-brake-system): The parking brake is still on, low brake fluid, worn brake pads, or a fault in the brake hydraulics.
+- [Coolant level](https://blamej65r2ec-dot.github.io/warning-light-coolant-level): A leak in a hose or the radiator, a worn water pump seal, or a faulty cap.
+- [Airbag](https://blamej65r2ec-dot.github.io/warning-light-airbag): A faulty seat sensor, a loose connector under the seat, a crash sensor fault, or a damaged clock spring in the steering wheel.
+- [Transmission](https://blamej65r2ec-dot.github.io/warning-light-transmission): Low or old transmission fluid, overheating from towing or heavy traffic, or a solenoid or sensor fault.
+- [Door or trunk open](https://blamej65r2ec-dot.github.io/warning-light-door-or-trunk-open): A door, trunk or hood that is not fully latched, or a dirty or faulty latch sensor.
+- [Check engine](https://blamej65r2ec-dot.github.io/warning-light-check-engine): A loose fuel cap, a faulty oxygen sensor, worn spark plugs or ignition coil, a failing catalytic converter, or many other engine and emissions faults.
+- [ABS](https://blamej65r2ec-dot.github.io/warning-light-abs): A dirty or damaged wheel speed sensor, low brake fluid, a blown fuse, or a faulty ABS module.
+- [Tire pressure](https://blamej65r2ec-dot.github.io/warning-light-tire-pressure): A slow leak, cold weather, a puncture, or a flat sensor battery.
+- [Stability control](https://blamej65r2ec-dot.github.io/warning-light-stability-control): Flashing: the system is working on a slippery road. Steady: it was switched off, or a wheel speed, steering angle or ABS sensor has a fault.
+- [Glow plug (diesel)](https://blamej65r2ec-dot.github.io/warning-light-glow-plug-diesel): Normal: the engine is pre-heating before a cold start. If it stays on or appears while driving: a faulty glow plug, relay or engine sensor.
+- [Diesel particulate filter](https://blamej65r2ec-dot.github.io/warning-light-diesel-particulate-filter): Too many short trips, so the filter cannot burn off the soot it collects.
+- [Low fuel](https://blamej65r2ec-dot.github.io/warning-light-low-fuel): About 10% of the tank is left, usually 30 to 60 miles (50 to 100 km) of range.
+- [Service due](https://blamej65r2ec-dot.github.io/warning-light-service-due): The car reached its service interval by distance or time.
+- [Immobilizer or key](https://blamej65r2ec-dot.github.io/warning-light-immobilizer-or-key): A weak key battery, a damaged key chip, or a fault in the car’s antenna or computer.
+- [General warning](https://blamej65r2ec-dot.github.io/warning-light-general-warning): The car wants to show a message. It could be a low fluid, an open door, a service reminder or something else.
+- [Washer fluid](https://blamej65r2ec-dot.github.io/warning-light-washer-fluid): The windshield washer fluid is low.
+- [High beam](https://blamej65r2ec-dot.github.io/warning-light-high-beam): The high beams are on.
+- [Turn signal](https://blamej65r2ec-dot.github.io/warning-light-turn-signal): Normal while signaling. If it blinks much faster than usual, a bulb has failed.
+- [Fog lights](https://blamej65r2ec-dot.github.io/warning-light-fog-lights): The fog lights are switched on.
+- [Cruise control](https://blamej65r2ec-dot.github.io/warning-light-cruise-control): Cruise control is switched on or a speed is set.
+- [Power steering](https://blamej65r2ec-dot.github.io/warning-light-power-steering): The power steering assist has failed or is reduced. Causes include low fluid on hydraulic systems, a failing pump, a blown fuse, or a fault in the electric steering motor or sensors.
+- [Seat belt](https://blamej65r2ec-dot.github.io/warning-light-seat-belt): A front seat belt is not buckled, or the seat sensor or buckle switch is faulty.
+- [Low oil level](https://blamej65r2ec-dot.github.io/warning-light-low-oil-level): The engine oil level is low. Some cars use a level sensor, and this light is different from the oil pressure light.
+- [Reduced engine power](https://blamej65r2ec-dot.github.io/warning-light-reduced-engine-power): The engine computer has limited engine power to protect the engine. It is often linked to the throttle, a sensor or the turbo.
+- [AdBlue or DEF](https://blamej65r2ec-dot.github.io/warning-light-adblue-or-def): The diesel exhaust fluid is low or the system has a fault. Some cars will not restart once it runs out.
+
+## Fault codes
+- [P0300: Random or Multiple Cylinder Misfire Detected](https://blamej65r2ec-dot.github.io/fault-code-p0300)
+- [P0301: Cylinder 1 Misfire Detected](https://blamej65r2ec-dot.github.io/fault-code-p0301)
+- [P0302: Cylinder 2 Misfire Detected](https://blamej65r2ec-dot.github.io/fault-code-p0302)
+- [P0303: Cylinder 3 Misfire Detected](https://blamej65r2ec-dot.github.io/fault-code-p0303)
+- [P0304: Cylinder 4 Misfire Detected](https://blamej65r2ec-dot.github.io/fault-code-p0304)
+- [P0420: Catalyst System Efficiency Below Threshold (Bank 1)](https://blamej65r2ec-dot.github.io/fault-code-p0420)
+- [P0430: Catalyst System Efficiency Below Threshold (Bank 2)](https://blamej65r2ec-dot.github.io/fault-code-p0430)
+- [P0171: System Too Lean (Bank 1)](https://blamej65r2ec-dot.github.io/fault-code-p0171)
+- [P0174: System Too Lean (Bank 2)](https://blamej65r2ec-dot.github.io/fault-code-p0174)
+- [P0172: System Too Rich (Bank 1)](https://blamej65r2ec-dot.github.io/fault-code-p0172)
+- [P0128: Coolant Temperature Below Thermostat Regulating Temperature](https://blamej65r2ec-dot.github.io/fault-code-p0128)
+- [P0455: Evaporative Emission System Leak Detected (Large Leak)](https://blamej65r2ec-dot.github.io/fault-code-p0455)
+- [P0442: Evaporative Emission System Leak Detected (Small Leak)](https://blamej65r2ec-dot.github.io/fault-code-p0442)
+- [P0456: Evaporative Emission System Leak Detected (Very Small Leak)](https://blamej65r2ec-dot.github.io/fault-code-p0456)
+- [P0446: Evaporative Emission System Vent Control Circuit](https://blamej65r2ec-dot.github.io/fault-code-p0446)
+- [P0401: Exhaust Gas Recirculation Flow Insufficient](https://blamej65r2ec-dot.github.io/fault-code-p0401)
+- [P0113: Intake Air Temperature Sensor Circuit High](https://blamej65r2ec-dot.github.io/fault-code-p0113)
+- [P0335: Crankshaft Position Sensor A Circuit](https://blamej65r2ec-dot.github.io/fault-code-p0335)
+- [P0340: Camshaft Position Sensor Circuit](https://blamej65r2ec-dot.github.io/fault-code-p0340)
+- [P0507: Idle Control System RPM Higher Than Expected](https://blamej65r2ec-dot.github.io/fault-code-p0507)
+- [P0700: Transmission Control System Malfunction](https://blamej65r2ec-dot.github.io/fault-code-p0700)
+- [P0562: System Voltage Low](https://blamej65r2ec-dot.github.io/fault-code-p0562)
+- [P0011: Intake Camshaft Position Timing Over-Advanced (Bank 1)](https://blamej65r2ec-dot.github.io/fault-code-p0011)
+- [P0141: O2 Sensor Heater Circuit (Bank 1 Sensor 2)](https://blamej65r2ec-dot.github.io/fault-code-p0141)
