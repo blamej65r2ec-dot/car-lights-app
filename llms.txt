@@ -5,8 +5,6 @@
 ## Main pages
 - [All warning lights](https://blamej65r2ec-dot.github.io/warning-lights)
 - [Fault codes](https://blamej65r2ec-dot.github.io/fault-codes)
-- [Repair cost estimator](https://blamej65r2ec-dot.github.io/estimate)
-- [Scan a warning light](https://blamej65r2ec-dot.github.io/scan)
 - [Shop](https://blamej65r2ec-dot.github.io/shop)
 - [Warning light colors](https://blamej65r2ec-dot.github.io/dashboard-warning-light-colors)
 - [How to read OBD-II codes](https://blamej65r2ec-dot.github.io/how-to-read-obd2-codes)
